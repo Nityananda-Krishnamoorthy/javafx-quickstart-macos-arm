@@ -1,18 +1,32 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Apache License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<h1 align="center">
 
+[contributors-shield]: https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO_NAME.svg?style=for-the-badge
+[contributors-url]: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO_NAME.svg?style=for-the-badge&logo=github
+[forks-url]: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME.svg?style=for-the-badge&logo=github
+[stars-url]: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO_NAME.svg?style=for-the-badge
+[issues-url]: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/issues
+
+[license-shield]: https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO_NAME.svg?style=for-the-badge
+[license-url]: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/master/LICENSE.txt
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/YOUR_LINKEDIN_PROFILE
+
+<h1 >
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Nityananda-Krishnamoorthy/javafx-quickstart-macos-arm">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="200" style="border-radius: 50%;">
   </a>
 
 <h3 align="center">JavaFX Quickstart — macOS ARM (Java 21)</h3>
@@ -46,11 +60,10 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#Create Your Own Project (Detach From Template)">Create Your Own Project (Detach From Template)</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Owner Information">License</a></li>
   </ol>
 </details>
 
@@ -58,7 +71,7 @@
 
 ## About The Project
 
-[![Product Screenshot][product-screenshot]](https://example.com)
+<!-- [![Product Screenshot][product-screenshot]](https://example.com) -->
 
 This repository provides a clean, ready-to-run template for building **JavaFX 21 applications** using **Maven** on **macOS ARM** processors (Apple Silicon). It eliminates all environment problems such as:
 
