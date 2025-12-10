@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Nityananda-Krishnamoorthy/javafx-quickstart-macos-arm">
-    <img src="images/logo.png" alt="Logo" width="200" height="200" style="border-radius: 50%;">
+    <img src="images/logo.png" alt="Logo" width="100" height="100" style="border-radius: 20px;">
   </a>
 
 <h3 align="center">JavaFX Quickstart — macOS ARM (Java 21)</h3>
