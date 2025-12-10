@@ -77,6 +77,7 @@ This project is ideal for:
 
 ## Project Structure
 
+```swift
 javafx-quickstart-macos-arm/
 │── pom.xml
 │── src/
@@ -88,7 +89,7 @@ javafx-quickstart-macos-arm/
 │       └── resources/
 │           └── com/example/app/
 │               └── view.fxml
-
+```
 ---
 
 ## Getting Started
