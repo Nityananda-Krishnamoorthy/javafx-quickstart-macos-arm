@@ -21,12 +21,12 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/YOUR_LINKEDIN_PROFILE
 
-<h1 >
+</h1 >
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Nityananda-Krishnamoorthy/javafx-quickstart-macos-arm">
-    <img src="images/logo.png" alt="Logo" width="100" height="100" style="border-radius: 20px;">
+    <img src="images/logo.png" alt="Logo" width="400" height="400" style="border-radius: 20px;">
   </a>
 
 <h3 align="center">JavaFX Quickstart — macOS ARM (Java 21)</h3>
